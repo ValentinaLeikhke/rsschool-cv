@@ -31,7 +31,18 @@ learner and can quickly integrate into a team.
 
 ---
 
-## Code examples
+## Code example
+
+```
+function checkAppleCollision() {
+    if(appleX == headX && appleY == headY){
+        appleX = Math.floor(Math.random() * tileCount);
+        appleY = Math.floor(Math.random() * tileCount);
+        tailLength ++;
+        score ++;
+    }
+}
+```
 
 ---
 
