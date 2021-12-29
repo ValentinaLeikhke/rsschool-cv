@@ -64,9 +64,9 @@ function checkAppleCollision() {
 
 ## Languages
 
-- Russian - Native
-
 - English - B2 Upper-intermediate
   (according to the online test at [www.efset.org](https://www.efset.org/))
 
 * Mandarin - Beginner (according to the online test at [www.easymandarin.cn](https://www.easymandarin.cn/))
+
+- Russian - Native
